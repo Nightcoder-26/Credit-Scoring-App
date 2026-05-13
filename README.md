@@ -259,5 +259,5 @@ Machine Learning Track | Credit Scoring Task
 
 <div align="center">
   <b>⭐ Star this repo if you found it helpful!</b><br>
-  Built with ❤️ for CodeAlpha ML Internship
+  CodeAlpha ML Internship
 </div>
