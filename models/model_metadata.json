@@ -1,0 +1,27 @@
+{
+  "best_model": "Logistic Regression (Tuned)",
+  "n_features": 12,
+  "feature_names": [
+    "age",
+    "sex",
+    "job",
+    "housing",
+    "savings_account",
+    "checking_account",
+    "credit_amount",
+    "duration",
+    "purpose",
+    "debt_duration_ratio",
+    "age_group",
+    "credit_tier"
+  ],
+  "train_samples": 800,
+  "test_samples": 200,
+  "final_metrics": {
+    "accuracy": 0.88,
+    "precision": 0.9531,
+    "recall": 0.8714,
+    "f1_score": 0.9104,
+    "roc_auc": 0.9733
+  }
+}
